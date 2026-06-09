@@ -41,8 +41,6 @@ To automate business analysis by processing sales data, calculating key metrics,
 * Automated PDF Report Generation
 * Dashboard Integration using Power BI
 * LLM Integration
-
+  
 ## Author
-kayathri
-
 Kayathri
